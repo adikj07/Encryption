@@ -1,4 +1,4 @@
 # Encryption
-Program   : Enkripsi
-Bahasa    : C++
-Metode    : Substitusi Tabel ASCII
+Program   : Enkripsi<br>
+Bahasa          : C++<br>
+Metode      : Substitusi Tabel ASCII
