@@ -1,2 +1,4 @@
 # Encryption
-Menggunakan metode tabel ASCII
+Program   : Enkripsi
+Bahasa    : C++
+Metode    : Substitusi Tabel ASCII
